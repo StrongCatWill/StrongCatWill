@@ -25,4 +25,7 @@
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssyysskywalker@gmail.com)](ssyysskywalker@gmail.com)
 	
- </div>
+</div>
+<div align=center>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrongCatWill)](https://github.com/anuraghazra/github-readme-stats)
+</div>
