@@ -28,5 +28,6 @@
 </div>
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrongCatWill&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=StrongCatWill&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=StrongCatWill&show_icons=true"><br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?StrongCatWill=anuraghazra&show_icons=true&theme=dracula)
 </div>
