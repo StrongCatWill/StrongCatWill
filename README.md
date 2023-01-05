@@ -26,8 +26,17 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssyysskywalker@gmail.com)](ssyysskywalker@gmail.com)
 	
 </div>
+	
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrongCatWill&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=StrongCatWill&show_icons=true"><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?StrongCatWill=anuraghazra&show_icons=true&theme=dracula)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?StrongCatWill=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dracula)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?StrongCatWill=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?StrongCatWill=anuraghazra&show_icons=true" />
+</picture>
 </div>
