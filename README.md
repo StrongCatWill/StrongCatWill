@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=StrongCatWill&fontSize=90)
 ### you can call me "Alex" or "Seung Yeon". That's my real name. 
-
+<span> 💌 Contact : </span><br> 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssyysskywalker@gmail.com)](ssyysskywalker@gmail.com) 
+<span> 🔎 꿈꾸는 개발자, 신승연입니다. </span> <br>
+<span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
 ---
 
   <div align=center>
@@ -20,13 +23,14 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-<br>
+<br></div>
+	
+	
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssyysskywalker@gmail.com)](ssyysskywalker@gmail.com)
 </div>
 	
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrongCatWill&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=StrongCatWill&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=StrongCatWill&theme=dracula>
+![StrongCatWill's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrongCatWill&show_icons=true&theme=material-palenight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrongCatWill&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
 </div>
