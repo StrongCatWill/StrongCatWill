@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=StrongCatWill&fontSize=90)
 
 <div align=center>
-<span> 💌 Contact : ssyysskywalker@gmail.com</span>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssyysskywalker@gmail.com)](ssyysskywalker@gmail.com) <br>
+<span> 💌 Contact : ssyysskywalker@gmail.com </span>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssyysskywalker@gmail.com)](ssyysskywalker@gmail.com)
 <span> 🔎 꿈꾸는 개발자, 신승연입니다. </span> <br>
 <span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
 </div>
----
 
-  <div align=center>
+ <div align=center>
 <h1>📚 STACKS</h1><div>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
