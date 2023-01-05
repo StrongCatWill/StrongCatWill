@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Egg&color=auto&height=200&section=header&text=Hello World!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!&fontSize=90" 
 ### you can call me "Alex" or "Seung Yeon". That's my real name. 
 ---
 
