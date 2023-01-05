@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=StrongCatWill&fontSize=90)
-
 <div align=center>
 <span> 💌 Contact : ssyysskywalker@gmail.com </span><br>
 <span> 🔎 꿈꾸는 개발자, 신승연입니다. 강력한 고양이의 의지, 인상적인 닉네임이지만 본명으로 불러주셔도 좋습니다. </span> <br>
