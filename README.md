@@ -22,13 +22,8 @@
 <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 <br>
 
-</div>
-
-###YOU CAN FINE ME
-<div align=center>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssyysskywalker@gmail.com)](ssyysskywalker@gmail.com)
 </div>
----	
 	
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrongCatWill&layout=compact"><br><br>
