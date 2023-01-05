@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=StrongCatWill&fontSize=90)
 ### you can call me "Alex" or "Seung Yeon". That's my real name. 
+
 ---
+
   <div align=center>
 <h1>📚 STACKS</h1><div>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -9,6 +11,7 @@
  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
 <br>
 
+<img src="https://img.shields.io/badge/Notion-3178C6?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
