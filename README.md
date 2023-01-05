@@ -3,15 +3,16 @@
 <span> 💌 Contact : ssyysskywalker@gmail.com </span><br>
 <span> 🔎 꿈꾸는 개발자, 신승연입니다. 강력한 고양이의 의지, 인상적인 닉네임이지만 본명으로 불러주셔도 좋습니다. </span> <br>
 <span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
-</div>
 
- <div align=center>
-<h1>📚 STACKS</h1><div>
+
+<div align=center>
+<h1>🎇 STACKS</h1><div><br>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
 <br>
+
 
 <img src="https://img.shields.io/badge/Notion-3178C6?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
