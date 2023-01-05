@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=StrongCatWill%20SY SHIN&fontSize=70" />
+<h1><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=StrongCatWill%20SY SHIN&fontSize=70" /><h1>
 <span> 💌 Contact : ssyysskywalker@gmail.com </span><br>
 <span> 🔎 꿈꾸는 개발자, 신승연입니다. 강력한 고양이의 의지, 인상적인 닉네임이지만 본명으로 불러주셔도 좋습니다. </span> <br>
 <span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
