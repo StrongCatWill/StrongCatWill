@@ -1,6 +1,6 @@
 <div align=center>
 <header>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🤚 Hello World!&fontSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🤚🏻HelloWorld&fontSize=50" />
 <header><br>
 <span> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="ssyysskywalker@gamil.com" <a href="mailto:ssyysskywalker@gmail.com"></a> </span><br>
 <span> 🔎 꿈꾸는 개발자, 신승연입니다. 강력한 고양이의 의지, 인상적인 닉네임이지만 본명으로 불러주셔도 좋습니다. </span> <br>
