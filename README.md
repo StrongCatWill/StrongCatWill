@@ -55,4 +55,22 @@
 <div>
 <!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
 </div>
+<div>
+	<details>
+		<summary>
+			<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Martian+Mono&size=16&pause=1000&color=000000&width=435&lines=What+I'm+interested+in+right+now+is..." alt="Typing SVG" /></a>
+		</summary>
+		<details>
+		<summary>📏Math</summary>
+		<li>Studying algebra ten hours a week</li>
+		<li>Solving algorithm practice in baekjoon online judge more than once a day</li>
+		<li>Leading Coding test study group which is regular employee's study in use BaekJoon and Programmers</li>
+	</details>
+	<details>
+		<summary>🎇Vision</summary>
+		<li>One day, i'll study quantum computing</li>
+		<li>One day, i'll be a trustworthy engineer and a co-worker</li>
+	</details>
+	</details>
+</div>
 
