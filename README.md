@@ -27,8 +27,8 @@
 <br><br>
 <h1>✔️ Tools & Collaboration STACKS</h1>
 <div>
-	<img src="https://img.shields.io/badge/intellijidea-181717?style=for-the-badge&logo=intellijidea&logoColor=white">
-   	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+	<img src="https://img.shields.io/badge/intellij%20idea-181717?style=for-the-badge&logo=intellijidea&logoColor=white">
+   	<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
    	<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 	<img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 	<br>
