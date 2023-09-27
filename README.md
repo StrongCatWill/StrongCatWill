@@ -2,7 +2,7 @@
 <header>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🤚🏻HelloWorld&fontSize=50" />
 <header><br>
-<span> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="ssyysskywalker@gamil.com" <a href="mailto:ssyysskywalker@gmail.com"></a> </span><br>
+<span> ssyysskywalker@gamil.com</span><br>
 <span> 🔎 꿈꾸는 개발자, 신승연입니다. 강력한 고양이의 의지, 인상적인 닉네임이지만 본명으로 불러주셔도 좋습니다. </span> <br>
 <span> 🥕 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아해요 </span>
 
@@ -30,7 +30,7 @@
 	<img src="https://img.shields.io/badge/intellijidea-181717?style=for-the-badge&logo=intellijidea&logoColor=white">
    	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
    	<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-	<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+	<img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
