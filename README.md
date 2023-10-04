@@ -49,12 +49,10 @@
 <br><br>
 
 
-![StrongCatWill's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrongCatWill&show_icons=true&theme=dark)
+![StrongCatWill's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrongCatWill&show_icons=true&theme=dark)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssyys0822)](https://solved.ac/ssyys0822/)
+</div>
 
-</div>
-<div>
-<!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
-</div>
 <div>
 	<details>
 		<summary>
